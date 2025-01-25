@@ -2,14 +2,15 @@
 ایرانسل
 ایرانسل
 ایرانسل
+https://dns.aa.net.uk/dns-query
 
-
+https://blitz.ahadns.com
 
 https://ipv4-zepto-mci-1.edge.nextdns.io/dns-query
 
 https://dns.controld.com/
 
-https://170.176.145.150/
+https://doh.libredns.gr/dns-query
 
 https://zepto-sto-1.edge.nextdns.io
 
