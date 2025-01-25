@@ -2,8 +2,15 @@
 ایرانسل
 ایرانسل
 ایرانسل
+https://dns.tuna.tsinghua.edu.cn/dns-query
 
+https://ns1.fdn.fr/dns-query
 
+https://helios.plan9-dns.com/dns-query
+
+https://dns.mullvad.net/dns-query
+
+https://cloudflare-dns.com/dns-query
 
 https://dns.aa.net.uk/dns-query
 
