@@ -2,6 +2,10 @@
 ایرانسل
 ایرانسل
 ایرانسل
+
+
+https://94.140.14.140/dns-query
+
 https://dns.aa.net.uk/dns-query
 
 https://blitz.ahadns.com
